@@ -659,6 +659,7 @@ API | Description | Auth | HTTPS | CORS |
 | [IP 2 Country](https://ip2country.info) | Map an IP to a country | No | Yes | Unknown |
 | [IP Address Details](https://ipinfo.io/) | Find geolocation with ip address | No | Yes | Unknown |
 | [IP Location](https://ipapi.co/api/#introduction) | Find IP address location information | No | Yes | Yes |
+<<<<<<< HEAD
 | [IP Sidekick](https://ipsidekick.com) | Geolocation API that returns extra information about an IP address | `apiKey` | Yes | Unknown |
 | [IP Vigilante](https://www.ipvigilante.com/) | Free IP Geolocation API | No | Yes | Unknown |
 | [ip-api](https://ip-api.com/docs) | Find location with ip address or domain| No | No | Unknown |
